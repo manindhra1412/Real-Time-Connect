@@ -45,6 +45,7 @@ To run the chat application locally, follow these steps:
 2. Install dependencies:
 
     cd Real-Time-Connect
+    
     npm install
 
 
